@@ -20,7 +20,7 @@ A fun, interactive **Simon Says** game built using core JavaScript, HTML, and CS
 ## Installation
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/simon-says-game.git
+    git clone https://github.com/Abhishek47v/Simon-Says-Using-Core-JS-.git
     ```
     
 2. Open the `index.html` file in your web browser to start playing.
