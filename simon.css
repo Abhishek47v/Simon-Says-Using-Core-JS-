@@ -1,0 +1,49 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    padding:0;
+    margin:0;
+}
+
+body{
+    text-align: center;
+}
+
+h2{
+    margin-top:10px;
+}
+.btn{
+    height:200px;
+    width:200px;
+    border:5px solid black; 
+    border-radius: 15%;
+    margin:20px 15px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top:20px;
+}
+
+.red{
+    background-color: #d95980;
+}
+.green{
+    background-color: #63aac0;
+}
+.yellow{
+    background-color: #f99b45;
+}
+.purple{
+    background-color: #819ff9;
+}
+
+.gameFlash{
+    background-color: white;
+}
+.userFlash{
+    background-color: aqua;
+}
+.redFlash{
+    background-color: red;
+}
